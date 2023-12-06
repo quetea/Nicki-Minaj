@@ -1,207 +1,189 @@
 {
-  "sorts" : "[{\"isForward\":true,\"sortValue\":\"customSortIndex\"}]",
+  "description" : "Ad libs, sounds, and memorable lyrics from the queen.",
+  "image" : "jpeg",
+  "color" : "FA2DFF",
+  "name" : "Nicki Minaj",
+  "sorts" : "[{\"sortValue\":\"customSortIndex\",\"isForward\":true}]",
   "sounds" : [
     {
-      "name" : "Let's Go",
-      "color" : "DE62F7",
-      "customSortIndex" : 0
-    },
-    {
+      "customSortIndex" : 0,
       "color" : "ED56C1",
-      "customSortIndex" : 1,
-      "image" : "png",
-      "name" : "Ra Ra"
+      "name" : "Ra Ra",
+      "image" : "png"
     },
     {
+      "customSortIndex" : 1,
       "color" : "D41D91",
-      "customSortIndex" : 2,
-      "image" : "png",
-      "name" : "Like a Dungeon Dragon"
+      "name" : "Dungeon Dragon",
+      "image" : "png"
     },
     {
       "color" : "E159D7",
+      "image" : "png",
+      "name" : "Ayo Cap'n",
+      "customSortIndex" : 2
+    },
+    {
+      "image" : "png",
       "customSortIndex" : 3,
-      "name" : "Ayo Cap'n"
+      "color" : "FF91FA",
+      "name" : "Uh"
     },
     {
-      "name" : "Get Ready For It",
-      "color" : "FFAAD8",
+      "customSortIndex" : 4,
+      "color" : "C87AF2",
       "image" : "png",
-      "customSortIndex" : 4
+      "name" : "Purr Long"
     },
     {
-      "color" : "BF5AF2",
+      "image" : "png",
+      "name" : "Dick In Your Face",
       "customSortIndex" : 5,
+      "color" : "FA6AFF"
+    },
+    {
+      "name" : "If I Had A Dick",
       "image" : "png",
-      "name" : "I Came To Win"
+      "customSortIndex" : 6,
+      "color" : "CF9ACC"
     },
     {
-      "name" : "Assume The Position",
-      "color" : "FFC3FF",
-      "customSortIndex" : 6
-    },
-    {
-      "color" : "E842FF",
-      "name" : "Let Those Bums Blow Steam",
+      "image" : "png",
+      "color" : "E955EC",
+      "name" : "I Think He Catchin Feelins",
       "customSortIndex" : 7
     },
     {
+      "color" : "DB66E4",
+      "image" : "png",
       "customSortIndex" : 8,
-      "name" : "Woh",
-      "color" : "EC70FF"
+      "name" : "Purr High"
     },
     {
+      "name" : "Bang",
+      "color" : "F186D0",
       "customSortIndex" : 9,
-      "name" : "*Scream*",
-      "color" : "E961F7"
+      "image" : "png"
     },
     {
-      "name" : "I'm a Mutha Fuckin Monsta",
-      "color" : "E761DC",
+      "name" : "Let's Go",
+      "image" : "png",
+      "color" : "DE62F7",
       "customSortIndex" : 10
     },
     {
-      "name" : "Jump In This Ride",
+      "color" : "CD5695",
+      "name" : "Cut The Check",
       "customSortIndex" : 11,
-      "color" : "FF28C7"
+      "image" : "png"
     },
     {
       "customSortIndex" : 12,
-      "color" : "FA6AFF",
-      "name" : "Dick In Your Face"
+      "color" : "DC3BFF",
+      "name" : "Pink Friday",
+      "image" : "png"
     },
     {
+      "image" : "png",
       "customSortIndex" : 13,
+      "name" : "Jump In This Ride",
+      "color" : "EA52C2"
+    },
+    {
+      "image" : "png",
+      "name" : "Mmm",
+      "customSortIndex" : 14,
+      "color" : "F358CC"
+    },
+    {
+      "color" : "DF8AD4",
+      "image" : "png",
+      "customSortIndex" : 15,
+      "name" : "Snitches"
+    },
+    {
+      "customSortIndex" : 16,
+      "color" : "F6A3BE",
+      "name" : "Assume The Position",
+      "image" : "png"
+    },
+    {
+      "image" : "png",
+      "customSortIndex" : 17,
+      "color" : "E06CF7",
+      "name" : "Peace"
+    },
+    {
+      "name" : "Let Those Bums Blow Steam",
+      "color" : "E842FF",
+      "customSortIndex" : 18,
+      "image" : "png"
+    },
+    {
+      "customSortIndex" : 19,
+      "color" : "D36BF7",
+      "image" : "png",
+      "name" : "I Love My Fans"
+    },
+    {
+      "customSortIndex" : 20,
+      "color" : "E84ED4",
+      "name" : "The Queen",
+      "image" : "png"
+    },
+    {
+      "image" : "png",
+      "color" : "E497FB",
+      "name" : "Is That My Cue",
+      "customSortIndex" : 21
+    },
+    {
+      "name" : "Ayo Anna",
+      "image" : "png",
+      "customSortIndex" : 22,
+      "color" : "F482F7"
+    },
+    {
+      "color" : "E961F7",
+      "customSortIndex" : 23,
+      "name" : "Scream",
+      "image" : "png"
+    },
+    {
+      "image" : "png",
+      "customSortIndex" : 24,
       "name" : "Yes",
       "color" : "C459A9"
     },
     {
-      "customSortIndex" : 14,
-      "color" : "D36BF7",
-      "name" : "I Love My Fans",
-      "image" : "png"
-    },
-    {
-      "name" : "Is That My Cue",
-      "color" : "FDBDFF",
-      "customSortIndex" : 15
-    },
-    {
-      "name" : "Ayo Anna",
-      "color" : "F482F7",
-      "customSortIndex" : 16
-    },
-    {
-      "customSortIndex" : 17,
-      "name" : "Bang",
-      "color" : "FF99D3"
+      "color" : "F389D6",
+      "image" : "png",
+      "name" : "Get Ready For It",
+      "customSortIndex" : 25
     },
     {
       "image" : "png",
-      "color" : "FF8EFA",
-      "name" : "He In Love",
-      "customSortIndex" : 18
-    },
-    {
-      "name" : "Blazin",
-      "color" : "FF82F7",
-      "customSortIndex" : 19
-    },
-    {
-      "color" : "D327FF",
-      "name" : "This Is The Pinkprint",
-      "customSortIndex" : 20
-    },
-    {
-      "customSortIndex" : 21,
-      "image" : "png",
-      "name" : "Uh",
-      "color" : "FF91FA"
-    },
-    {
-      "image" : "png",
-      "color" : "FF27D2",
-      "name" : "Mmm",
-      "customSortIndex" : 22
-    },
-    {
-      "name" : "The Queen",
-      "color" : "EC82F7",
-      "customSortIndex" : 23
-    },
-    {
-      "color" : "FF70F5",
-      "name" : "Give Me Brain",
-      "customSortIndex" : 24
-    },
-    {
-      "customSortIndex" : 25,
-      "color" : "D894D7",
-      "name" : "They Ready"
-    },
-    {
-      "color" : "E06CF7",
-      "name" : "Peace",
+      "color" : "BF5AF2",
+      "name" : "I Came To Win",
       "customSortIndex" : 26
     },
     {
-      "name" : "Purr High",
-      "color" : "DB66E4",
-      "customSortIndex" : 27
+      "image" : "png",
+      "name" : "They Ready",
+      "customSortIndex" : 27,
+      "color" : "D894D7"
     },
     {
       "customSortIndex" : 28,
-      "color" : "C87AF2",
-      "name" : "Purr Long"
-    },
-    {
-      "name" : "Ya Like it Don't Cha",
-      "color" : "FF98E6",
+      "name" : "Back Again",
       "image" : "png",
-      "customSortIndex" : 29
+      "color" : "F291FA"
     },
     {
-      "color" : "CF00E3",
+      "customSortIndex" : 29,
       "image" : "png",
-      "customSortIndex" : 30,
-      "name" : "Snitches"
-    },
-    {
-      "color" : "FFADF6",
-      "name" : "If I Had A Dick",
-      "customSortIndex" : 31
-    },
-    {
-      "name" : "Man",
-      "color" : "C2258D",
-      "image" : "png",
-      "customSortIndex" : 32
-    },
-    {
-      "color" : "DC3BFF",
-      "name" : "Pink Friday"
-    },
-    {
-      "color" : "FEA8FF",
-      "name" : "Back Again"
-    },
-    {
-      "color" : "D05FE1",
-      "name" : "Chef Cook It For Me"
-    },
-    {
-      "name" : "I Think He Catchin Feelins",
-      "color" : "E955EC"
-    },
-    {
-      "color" : "CD5695",
-      "name" : "Cut The Check"
-    },
-    {
-      "color" : "FF84FF",
-      "name" : "Laugh Short"
+      "color" : "FF70F5",
+      "name" : "Give Me Brain"
     }
-  ],
-  "name" : "Nicki Minaj",
-  "color" : "FA2DFF"
+  ]
 }
